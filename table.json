@@ -1,0 +1,18 @@
+{
+    "tables": {
+        [
+            "name": "Vampire Daughter",
+            "items": [
+                {"value": "A set of baby vampire teeth"},
+                {"value": "One wooden shoe that would fit a small doll"},
+                {"value": "5 Silver pieces"}
+            ],
+            "name": "Vampire Mother",
+            "items": [
+                {"value": "A set of ruby earrings worth 50gp"},
+                {"value": "a scrap of parchment with blood stains"},
+                {"value": "131sp"}
+            ],
+        ]
+    }
+}

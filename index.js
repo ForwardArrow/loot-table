@@ -1,4 +1,4 @@
 function randomItem(table){
-    return table.items[Math.random() * table.size];
+    return table[Math.random() * table.length];
 }
 
